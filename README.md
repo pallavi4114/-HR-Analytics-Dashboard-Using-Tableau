@@ -14,22 +14,29 @@ Key features include trendlines and target lines to help track progress in reduc
 
 # Technologies Used:
 • Advance Excel 👨‍💻 
+
 • Tableau 📊
+
 • Statistics 📜
  
 # DASHBOARD CONTENT:
 1st Sheet: KPIs including Employee Count, Attrition Count, Attrition Rate, Active Employees, and Average Age.
+
 2nd Sheet: Attrition by Gender (Lollipop Chart).
+
 3rd Sheet: Department-wise Attrition (Pie Chart).
+
 4th Sheet: Number of Employees by Age Group (Bar Graph).
+
 5th Sheet: Job Satisfaction Rating (Square Chart).
+
 6th Sheet: Education Field-wise Attrition (Vertical Bar Graph).
+
 7th Sheet: Education Field-wise Attrition (Donut Plot).
 
-#DASHBOARD VIDEO:
+# DASHBOARD VIDEO:
 
 [screen-capture.webm](https://github.com/user-attachments/assets/03e753e1-8fab-442c-bd90-41066d145fcf)
-
 
 
 # DASHBOARD OVERVIEW:
