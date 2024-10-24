@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard-Using-Tableau
- HR-Analytics-Dashboard-Using-Tableau![Screenshot 2024-10-25 010327](https://github.com/user-attachments/assets/d905c46e-4ff4-4129-b5ed-9723785f0ad9)
+![Screenshot 2024-10-25 010327](https://github.com/user-attachments/assets/d905c46e-4ff4-4129-b5ed-9723785f0ad9)
 
 # Links:
 Lets Connect(www.linkedin.com/in/pallavikumari44)
@@ -14,13 +14,6 @@ Key features include trendlines and target lines to help track progress in reduc
 • Tableau 📊
 • Statistics 📜
  
-# STEPS OVERVIEW:
-Collect data subset from online sources.
-Understand the dataset.
-Load necessary libraries.
-Perform data cleaning and address missing values.
-Visualize the data.
-
 # DASHBOARD CONTENT:
 1st Sheet: KPIs including Employee Count, Attrition Count, Attrition Rate, Active Employees, and Average Age.
 2nd Sheet: Attrition by Gender (Lollipop Chart).
