@@ -1,6 +1,7 @@
 # HR-Analytics-Dashboard-Using-Tableau
 
-DASHBOARD PREVIEW: 
+
+# DASHBOARD PREVIEW: 
 
 ![Screenshot 2024-10-25 010327](https://github.com/user-attachments/assets/d905c46e-4ff4-4129-b5ed-9723785f0ad9)
 
